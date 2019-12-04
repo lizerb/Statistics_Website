@@ -5,7 +5,7 @@ theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-publishDir = "../probabilidade-estatistica.github.io"
+publishDir = "../lizerb.github.io"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
