@@ -4,6 +4,7 @@ author: 'Marlize Ramos'
 date: '2019-11-25'
 ---
 
+![](equipe_files/instituto.png)
 <p style="text-align: center;"><img src="/./equipe_files/instituto.png" alt="" width="450px" height="200px"/></p>
 
 
